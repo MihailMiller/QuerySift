@@ -1,0 +1,17 @@
+Deep learning is a subset of machine learning that is based on artificial neural networks. 
+It enables computers to process data in a way that mimics human brain functionality. 
+Deep learning models have revolutionized multiple fields, including computer vision, natural language processing, and healthcare.
+
+### History of Deep Learning
+The origins of deep learning can be traced back to the 1940s with early work on neural networks. 
+However, significant breakthroughs happened in the 1980s with backpropagation and in the 2010s with the advent of large-scale datasets and increased computational power.
+
+### Key Architectures
+1. **Convolutional Neural Networks (CNNs)**: Used extensively for image recognition and processing tasks.
+2. **Recurrent Neural Networks (RNNs)**: Applied in time-series data and natural language processing.
+3. **Transformers**: Revolutionized NLP with models like BERT and GPT.
+
+### Real-World Applications
+- **Autonomous Vehicles**: Deep learning is the core of computer vision models used in self-driving cars.
+- **Medical Diagnosis**: AI-powered deep learning models assist in detecting diseases like cancer from medical images.
+- **Voice Assistants**: Amazon Alexa and Google Assistant use deep learning for speech recognition.

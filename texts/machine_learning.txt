@@ -1,0 +1,16 @@
+Machine learning (ML) is an artificial intelligence technique that enables computers to learn patterns from data without explicit programming.
+
+### Types of Machine Learning
+1. **Supervised Learning**: Uses labeled data to make predictions. Examples include regression and classification models.
+2. **Unsupervised Learning**: Identifies hidden patterns in data without labeled outputs (e.g., clustering and association).
+3. **Reinforcement Learning**: Uses an agent to learn optimal actions by maximizing rewards (e.g., AlphaGo).
+
+### Key Algorithms
+- **Decision Trees**: Hierarchical structures for classification and regression.
+- **Support Vector Machines (SVMs)**: Used for classification problems with high-dimensional data.
+- **Neural Networks**: Inspired by the human brain and used for deep learning applications.
+
+### Real-World Use Cases
+- **Fraud Detection**: Banks use ML to detect unusual transactions and prevent fraud.
+- **Recommendation Systems**: Netflix and YouTube use ML to personalize content recommendations.
+- **Healthcare**: ML aids in predicting patient diagnoses based on historical data.

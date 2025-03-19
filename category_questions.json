@@ -1,0 +1,16 @@
+{
+  "Technology": {
+    "Artificial Intelligence": {
+      "Deep Learning": ["What are the applications of AI?", "How does deep learning improve AI?"],
+      "Machine Learning": ["What are the different types of machine learning?", "How does supervised learning work?"]
+    },
+    "Natural Language Processing": {
+      "Text Analysis": ["What are the key challenges in NLP?", "How does sentiment analysis work?"],
+      "Speech Recognition": ["How do voice assistants work?", "What is the role of transformers in NLP?"]
+    },
+    "Computer Vision": {
+      "Image Processing": ["What are the applications of computer vision?", "How do convolutional neural networks (CNNs) work?"],
+      "Object Detection": ["How does YOLO work?", "What are the latest advancements in object detection?"]
+    }
+  }
+}

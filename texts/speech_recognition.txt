@@ -1,0 +1,16 @@
+Speech recognition converts spoken language into text and is a key component of voice-enabled systems.
+
+### Evolution of Speech Recognition
+- Early systems in the 1950s could recognize only digits.
+- In the 1990s, Hidden Markov Models (HMMs) improved recognition accuracy.
+- Deep learning, particularly Recurrent Neural Networks (RNNs) and Transformers, have made modern speech recognition highly accurate.
+
+### Key Challenges
+- **Accent Variability**: Different accents can cause recognition errors.
+- **Background Noise**: Loud environments affect speech-to-text accuracy.
+- **Homophones**: Words like "two" and "too" sound identical but have different meanings.
+
+### Real-World Applications
+- **Virtual Assistants**: Siri, Google Assistant, and Alexa rely on speech recognition.
+- **Transcription Services**: AI is used to generate subtitles for movies and lectures.
+- **Voice-Controlled Devices**: Smart home automation with voice commands.

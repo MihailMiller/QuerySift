@@ -1,0 +1,16 @@
+Object detection is a computer vision technique that identifies and localizes objects in images and videos.
+
+### Popular Object Detection Models
+1. **YOLO (You Only Look Once)**: Real-time object detection with high speed.
+2. **Faster R-CNN**: Balances accuracy and computational efficiency.
+3. **SSD (Single Shot Detector)**: Detects objects at multiple scales.
+
+### Challenges in Object Detection
+- **Occlusion**: Objects blocking each other reduce detection accuracy.
+- **Lighting Conditions**: Poor lighting affects detection reliability.
+- **Scale Variability**: Detecting small objects in high-resolution images.
+
+### Applications of Object Detection
+- **Autonomous Vehicles**: Detecting pedestrians, cars, and traffic signs.
+- **Security Surveillance**: Identifying intruders in restricted areas.
+- **Retail Checkout Automation**: Amazon Go stores use object detection for automated payments.

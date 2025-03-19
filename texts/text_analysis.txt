@@ -1,0 +1,11 @@
+Text analysis is a crucial part of Natural Language Processing (NLP) that extracts insights from textual data.
+
+### Challenges in Text Analysis
+- **Ambiguity**: Words can have multiple meanings depending on context.
+- **Sentiment Detection**: Understanding human emotions in text can be complex.
+- **Named Entity Recognition (NER)**: Identifying entities like names and locations.
+
+### Applications of Text Analysis
+- **Customer Sentiment Analysis**: Businesses analyze customer reviews to understand satisfaction levels.
+- **Fake News Detection**: AI models are used to classify misinformation in online media.
+- **Legal Document Processing**: Automating the review of lengthy legal contracts.
