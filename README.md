@@ -120,3 +120,9 @@ querysift/
 ## License
 
 Licensed under the **MIT License** – free to use and modify!
+
+---
+
+## Funding
+
+Parts of the work were funded by grants of the German Ministry of Education and Research in the context of the joint research project "MANGAN" (01IS22011C) under the supervision of the PT-DLR.
