@@ -58,8 +58,6 @@ If you have a collection of documents on a specific topic and a set of unanswere
 }
 ```
 
-Each category contains subcategories, and each subcategory has more specific subtopics. Each subtopic holds a list of relevant questions. This structure helps the script match queries efficiently.
-
 ---
 
 ## 🛠️ Installation & Setup
